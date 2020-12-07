@@ -2,6 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout/card_issue_init_fragment.xml" value="0.35625" />
         <entry key="app/src/main/res/layout/payment_history_detail_fragment.xml" value="0.19010416666666666" />
       </map>
     </option>
