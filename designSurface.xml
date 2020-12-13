@@ -4,6 +4,7 @@
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.225" />
         <entry key="app/src/consoleEnabled/res/layout/boost_detail_demo_activity.xml" value="0.33061594202898553" />
+        <entry key="app/src/main/res/drawable/shape_circle_gradient.xml" value="0.21354166666666666" />
         <entry key="app/src/main/res/layout/alert_bolt_policy_popup.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/alert_money_charge_disable.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/bolt_history_view_holder.xml" value="0.1984375" />
