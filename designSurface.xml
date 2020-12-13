@@ -3,9 +3,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.5" />
-        <entry key="app/src/main/res/layout/boost_detail_content_panel.xml" value="0.17325227963525835" />
+        <entry key="app/src/main/res/layout/boost_detail_content_panel.xml" value="0.5" />
         <entry key="app/src/main/res/layout/boost_detail_error_panel.xml" value="0.3392210144927536" />
         <entry key="app/src/main/res/layout/boost_detail_fragment.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/boost_detail_info_panel.xml" value="0.17325227963525835" />
         <entry key="app/src/main/res/layout/boost_detail_tutorial_panel.xml" value="0.3392210144927536" />
         <entry key="app/src/main/res/layout/card_issue_init_fragment.xml" value="0.35625" />
         <entry key="app/src/main/res/layout/payment_history_detail_fragment.xml" value="0.19010416666666666" />
