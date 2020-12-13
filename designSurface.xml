@@ -3,6 +3,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.3015625" />
+        <entry key="app/src/main/res/layout/alert_bolt_policy_popup.xml" value="0.1984375" />
+        <entry key="app/src/main/res/layout/alert_money_charge_disable.xml" value="0.1984375" />
+        <entry key="app/src/main/res/layout/bolt_history_view_holder.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/boost_detail_content_panel.xml" value="0.5" />
         <entry key="app/src/main/res/layout/boost_detail_error_panel.xml" value="0.3392210144927536" />
         <entry key="app/src/main/res/layout/boost_detail_fragment.xml" value="0.375" />
@@ -10,7 +13,15 @@
         <entry key="app/src/main/res/layout/boost_detail_tutorial_panel.xml" value="0.3392210144927536" />
         <entry key="app/src/main/res/layout/card_address_fragment.xml" value="0.275" />
         <entry key="app/src/main/res/layout/card_issue_init_fragment.xml" value="0.35625" />
-        <entry key="app/src/main/res/layout/payment_history_detail_fragment.xml" value="0.19010416666666666" />
+        <entry key="app/src/main/res/layout/home_fragment.xml" value="0.1984375" />
+        <entry key="app/src/main/res/layout/money_charge_fragment.xml" value="0.1984375" />
+        <entry key="app/src/main/res/layout/money_home_fragment.xml" value="0.1984375" />
+        <entry key="app/src/main/res/layout/money_withdraw_fragment.xml" value="0.1984375" />
+        <entry key="app/src/main/res/layout/offline_payment_merchant_view_holder.xml" value="0.1984375" />
+        <entry key="app/src/main/res/layout/payment_history_cash_back_item_amount_accent_view_holder.xml" value="0.1984375" />
+        <entry key="app/src/main/res/layout/payment_history_cash_back_item_amount_view_holder.xml" value="0.1984375" />
+        <entry key="app/src/main/res/layout/payment_history_detail_fragment.xml" value="0.1984375" />
+        <entry key="app/src/main/res/layout/payment_history_view_holder.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/selector_view_holder.xml" value="0.3392210144927536" />
       </map>
     </option>
