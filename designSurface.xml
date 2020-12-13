@@ -13,6 +13,7 @@
         <entry key="app/src/main/res/layout/boost_detail_info_panel.xml" value="0.2554347826086957" />
         <entry key="app/src/main/res/layout/boost_detail_tutorial_panel.xml" value="0.3392210144927536" />
         <entry key="app/src/main/res/layout/card_address_fragment.xml" value="0.275" />
+        <entry key="app/src/main/res/layout/card_boost_fragment.xml" value="0.259963768115942" />
         <entry key="app/src/main/res/layout/card_issue_init_fragment.xml" value="0.35625" />
         <entry key="app/src/main/res/layout/home_fragment.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/money_charge_fragment.xml" value="0.1984375" />
