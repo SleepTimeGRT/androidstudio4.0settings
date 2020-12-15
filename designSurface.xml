@@ -29,6 +29,7 @@
         <entry key="app/src/main/res/layout/payment_history_detail_fragment.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/payment_history_view_holder.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/selector_view_holder.xml" value="0.3392210144927536" />
+        <entry key="app/src/main/res/layout/subscription_view_stub.xml" value="0.12386018237082067" />
       </map>
     </option>
   </component>
