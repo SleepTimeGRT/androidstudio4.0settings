@@ -10,11 +10,11 @@
         <entry key="app/src/main/res/layout/alert_bolt_policy_popup.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/alert_money_charge_disable.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/bolt_history_view_holder.xml" value="0.1984375" />
-        <entry key="app/src/main/res/layout/boost_detail_content_panel.xml" value="0.4388888888888889" />
+        <entry key="app/src/main/res/layout/boost_detail_content_panel.xml" value="0.25" />
         <entry key="app/src/main/res/layout/boost_detail_error_panel.xml" value="0.3392210144927536" />
         <entry key="app/src/main/res/layout/boost_detail_fragment.xml" value="0.375" />
         <entry key="app/src/main/res/layout/boost_detail_info_panel.xml" value="0.2554347826086957" />
-        <entry key="app/src/main/res/layout/boost_detail_swipe_panel.xml" value="0.1984375" />
+        <entry key="app/src/main/res/layout/boost_detail_swipe_panel.xml" value="0.3211050724637681" />
         <entry key="app/src/main/res/layout/boost_detail_tutorial_panel.xml" value="0.3392210144927536" />
         <entry key="app/src/main/res/layout/card_address_fragment.xml" value="0.275" />
         <entry key="app/src/main/res/layout/card_boost_fragment.xml" value="0.259963768115942" />
@@ -30,6 +30,7 @@
         <entry key="app/src/main/res/layout/payment_history_view_holder.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/selector_view_holder.xml" value="0.3392210144927536" />
         <entry key="app/src/main/res/layout/subscription_view_stub.xml" value="0.12386018237082067" />
+        <entry key="app/src/main/res/xml/boost_detail_swipe_scene.xml" value="0.33541666666666664" />
       </map>
     </option>
   </component>
