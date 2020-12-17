@@ -24,6 +24,7 @@
         <entry key="app/src/main/res/layout/money_home_fragment.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/money_withdraw_fragment.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/offline_payment_merchant_view_holder.xml" value="0.1984375" />
+        <entry key="app/src/main/res/layout/payable_fragment.xml" value="0.16312056737588654" />
         <entry key="app/src/main/res/layout/payment_history_cash_back_item_amount_accent_view_holder.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/payment_history_cash_back_item_amount_view_holder.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/payment_history_detail_fragment.xml" value="0.1984375" />
