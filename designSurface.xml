@@ -6,6 +6,7 @@
         <entry key="app/src/consoleEnabled/res/drawable/ic_baseline_add_24.xml" value="0.2" />
         <entry key="app/src/consoleEnabled/res/drawable/ic_baseline_archive_24.xml" value="0.2" />
         <entry key="app/src/consoleEnabled/res/layout/boost_detail_demo_activity.xml" value="0.33061594202898553" />
+        <entry key="app/src/dev/res/layout/card_features_panel_layout.xml" value="0.1578125" />
         <entry key="app/src/main/res/drawable/shape_circle_gradient.xml" value="0.21354166666666666" />
         <entry key="app/src/main/res/layout/alert_bolt_policy_popup.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/alert_money_charge_disable.xml" value="0.1984375" />
@@ -46,6 +47,7 @@
         <entry key="app/src/main/res/layout/payment_history_view_holder.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/payment_over_fragment.xml" value="0.18489583333333334" />
         <entry key="app/src/main/res/layout/payment_view_stub.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/profile_fragment.xml" value="0.1578125" />
         <entry key="app/src/main/res/layout/selector_view_holder.xml" value="0.3392210144927536" />
         <entry key="app/src/main/res/layout/subscription_view_stub.xml" value="0.12386018237082067" />
         <entry key="app/src/main/res/xml/boost_detail_swipe_scene.xml" value="0.33541666666666664" />
