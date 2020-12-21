@@ -2,6 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="app/src/consoleEnabled/res/drawable/ic_baseline_add_24.xml" value="0.2" />
         <entry key="app/src/consoleEnabled/res/drawable/ic_baseline_archive_24.xml" value="0.2" />
