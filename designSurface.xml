@@ -16,7 +16,7 @@
         <entry key="app/src/main/res/layout/alert_money_charge_disable.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/bank_account_ars_fragment.xml" value="0.33541666666666664" />
         <entry key="app/src/main/res/layout/bank_account_fragment.xml" value="0.33541666666666664" />
-        <entry key="app/src/main/res/layout/barcode_detail_activity.xml" value="0.18489583333333334" />
+        <entry key="app/src/main/res/layout/barcode_detail_activity.xml" value="0.33016304347826086" />
         <entry key="app/src/main/res/layout/barcode_detail_fragment.xml" value="0.18489583333333334" />
         <entry key="app/src/main/res/layout/base_graph_fragment.xml" value="0.33541666666666664" />
         <entry key="app/src/main/res/layout/benefit_fragment.xml" value="0.2807971014492754" />
@@ -43,7 +43,7 @@
         <entry key="app/src/main/res/layout/merchant_benefit_view_holder.xml" value="0.18489583333333334" />
         <entry key="app/src/main/res/layout/money_activity.xml" value="0.18489583333333334" />
         <entry key="app/src/main/res/layout/money_charge_fragment.xml" value="0.1984375" />
-        <entry key="app/src/main/res/layout/money_container_fragment.xml" value="0.29891304347826086" />
+        <entry key="app/src/main/res/layout/money_container_fragment.xml" value="0.33016304347826086" />
         <entry key="app/src/main/res/layout/money_home_fragment.xml" value="1.0" />
         <entry key="app/src/main/res/layout/money_withdraw_fragment.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/more_fragment.xml" value="0.33541666666666664" />
