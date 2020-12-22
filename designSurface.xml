@@ -39,6 +39,7 @@
         <entry key="app/src/main/res/layout/card_reissue_fragment.xml" value="0.33541666666666664" />
         <entry key="app/src/main/res/layout/chai_activity.xml" value="0.29891304347826086" />
         <entry key="app/src/main/res/layout/chai_pay_activity.xml" value="0.2546875" />
+        <entry key="app/src/main/res/layout/delete_user_request_fragment.xml" value="0.182518115942029" />
         <entry key="app/src/main/res/layout/home_fragment.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/manual_apply_boost_fragment.xml" value="0.1816123188405797" />
         <entry key="app/src/main/res/layout/merchant_benefit_view_holder.xml" value="0.18489583333333334" />
@@ -58,7 +59,7 @@
         <entry key="app/src/main/res/layout/payment_history_view_holder.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/payment_over_fragment.xml" value="0.18489583333333334" />
         <entry key="app/src/main/res/layout/payment_view_stub.xml" value="0.33" />
-        <entry key="app/src/main/res/layout/pin_input_fragment.xml" value="0.22864583333333333" />
+        <entry key="app/src/main/res/layout/pin_input_fragment.xml" value="0.33016304347826086" />
         <entry key="app/src/main/res/layout/profile_fragment.xml" value="0.1578125" />
         <entry key="app/src/main/res/layout/selector_view_holder.xml" value="0.3392210144927536" />
         <entry key="app/src/main/res/layout/subscription_view_stub.xml" value="0.12386018237082067" />
