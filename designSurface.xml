@@ -12,6 +12,10 @@
         <entry key="app/src/dev/res/layout/card_features_panel_layout.xml" value="0.18489583333333334" />
         <entry key="app/src/dev/res/layout/card_web_view_activity.xml" value="0.18489583333333334" />
         <entry key="app/src/dev/res/layout/developer_activity.xml" value="0.18489583333333334" />
+        <entry key="app/src/main/res/drawable/ic_first_come_large.xml" value="0.18072916666666666" />
+        <entry key="app/src/main/res/drawable/ic_time_attack_large.xml" value="0.18072916666666666" />
+        <entry key="app/src/main/res/drawable/ic_timeattack_small.xml" value="0.18072916666666666" />
+        <entry key="app/src/main/res/drawable/ic_timer.xml" value="0.18072916666666666" />
         <entry key="app/src/main/res/drawable/shape_circle_gradient.xml" value="0.21354166666666666" />
         <entry key="app/src/main/res/layout/account_list_fragment.xml" value="0.1766304347826087" />
         <entry key="app/src/main/res/layout/account_register_initial_fragment.xml" value="0.33541666666666664" />
