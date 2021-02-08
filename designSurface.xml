@@ -3,7 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
-        <entry key="../../../../layout/custom_preview.xml" value="0.42135416666666664" />
+        <entry key="../../../../layout/custom_preview.xml" value="0.7244791666666667" />
         <entry key="app/src/consoleEnabled/res/drawable/ic_baseline_add_24.xml" value="0.2" />
         <entry key="app/src/consoleEnabled/res/drawable/ic_baseline_archive_24.xml" value="0.2" />
         <entry key="app/src/consoleEnabled/res/layout/boost_detail_demo_activity.xml" value="0.33061594202898553" />
@@ -52,15 +52,17 @@
         <entry key="app/src/main/res/layout/card_address_fragment.xml" value="0.275" />
         <entry key="app/src/main/res/layout/card_boost_fragment.xml" value="0.259963768115942" />
         <entry key="app/src/main/res/layout/card_eng_name_update_activity.xml" value="0.18489583333333334" />
+        <entry key="app/src/main/res/layout/card_home_fragment.xml" value="0.39479166666666665" />
         <entry key="app/src/main/res/layout/card_invite_activity.xml" value="0.18489583333333334" />
         <entry key="app/src/main/res/layout/card_invite_contact_fragment.xml" value="0.4666666666666667" />
         <entry key="app/src/main/res/layout/card_issue_finish_fragment.xml" value="0.2536231884057971" />
         <entry key="app/src/main/res/layout/card_issue_init_fragment.xml" value="0.35625" />
         <entry key="app/src/main/res/layout/card_more_activity.xml" value="0.18489583333333334" />
         <entry key="app/src/main/res/layout/card_more_fragment.xml" value="0.3394123606889564" />
+        <entry key="app/src/main/res/layout/card_new_user_fragment.xml" value="0.39479166666666665" />
         <entry key="app/src/main/res/layout/card_password_change_activity.xml" value="0.3007246376811594" />
         <entry key="app/src/main/res/layout/card_reissue_fragment.xml" value="0.33541666666666664" />
-        <entry key="app/src/main/res/layout/chai_activity.xml" value="0.3903985507246377" />
+        <entry key="app/src/main/res/layout/chai_activity.xml" value="0.48007246376811596" />
         <entry key="app/src/main/res/layout/chai_pay_activity.xml" value="0.2546875" />
         <entry key="app/src/main/res/layout/change_pin_activity.xml" value="0.33541666666666664" />
         <entry key="app/src/main/res/layout/contact_view_holder.xml" value="0.4666666666666667" />
