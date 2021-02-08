@@ -7,6 +7,7 @@
         <entry key="app/src/consoleEnabled/res/drawable/ic_baseline_add_24.xml" value="0.2" />
         <entry key="app/src/consoleEnabled/res/drawable/ic_baseline_archive_24.xml" value="0.2" />
         <entry key="app/src/consoleEnabled/res/layout/boost_detail_demo_activity.xml" value="0.33061594202898553" />
+        <entry key="app/src/consoleEnabled/res/layout/card_web_view_activity.xml" value="0.1" />
         <entry key="app/src/dev/res/layout/boost_color_demo_fragment.xml" value="0.18489583333333334" />
         <entry key="app/src/dev/res/layout/boost_demo_activity.xml" value="0.18489583333333334" />
         <entry key="app/src/dev/res/layout/card_features_panel_layout.xml" value="0.4692028985507246" />
