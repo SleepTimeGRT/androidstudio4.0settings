@@ -6,6 +6,8 @@
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../.gradle/caches/transforms-2/files-2.1/0573c4feea3e587d088b11ca9f921e33/jetified-android-sdk-ui-13.0.0/res/layout/com_appboy_inappmessage_modal.xml" value="0.5" />
         <entry key="../../.gradle/caches/transforms-2/files-2.1/36376ba46f3e1601011f6c4a8a9c0b80/jetified-android-sdk-ui-3.3.0/res/layout/com_appboy_inappmessage_modal_graphic.xml" value="0.5" />
+        <entry key="../../.gradle/caches/transforms-2/files-2.1/ba1bfe80ef57f08c83072976a81229bc/appcompat-1.3.0-alpha01/res/layout/abc_alert_dialog_material.xml" value="0.5" />
+        <entry key="../../.gradle/caches/transforms-2/files-2.1/ba1bfe80ef57f08c83072976a81229bc/appcompat-1.3.0-alpha01/res/layout/abc_alert_dialog_title_material.xml" value="0.5" />
         <entry key="../../Library/Android/sdk/platforms/android-30/data/res/drawable/control_background_40dp_material.xml" value="0.28177083333333336" />
         <entry key="app/src/consoleEnabled/res/drawable/ic_baseline_add_24.xml" value="0.2" />
         <entry key="app/src/consoleEnabled/res/drawable/ic_baseline_archive_24.xml" value="0.2" />
@@ -47,6 +49,8 @@
         <entry key="app/src/main/res/layout/barcode_detail_fragment.xml" value="0.43432971014492755" />
         <entry key="app/src/main/res/layout/barcode_finish_activity.xml" value="0.5" />
         <entry key="app/src/main/res/layout/barcode_panel_layout.xml" value="0.33469202898550726" />
+        <entry key="app/src/main/res/layout/base_body_message_panel.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/base_body_title_message_panel.xml" value="0.5" />
         <entry key="app/src/main/res/layout/base_bottom_button_panel.xml" value="0.5" />
         <entry key="app/src/main/res/layout/base_center_button_panel.xml" value="0.5" />
         <entry key="app/src/main/res/layout/base_center_positive_only_panel.xml" value="0.5" />
@@ -100,6 +104,7 @@
         <entry key="app/src/main/res/layout/contact_view_holder.xml" value="0.4666666666666667" />
         <entry key="app/src/main/res/layout/coupon_activity.xml" value="0.3394123606889564" />
         <entry key="app/src/main/res/layout/cs_center_fragment.xml" value="0.43432971014492755" />
+        <entry key="app/src/main/res/layout/custom_appboy_inappmessage_modal.xml" value="0.5" />
         <entry key="app/src/main/res/layout/delete_user_finish_fragment.xml" value="0.43432971014492755" />
         <entry key="app/src/main/res/layout/delete_user_request_fragment.xml" value="0.43432971014492755" />
         <entry key="app/src/main/res/layout/demo_activity.xml" value="0.1" />
