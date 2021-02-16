@@ -4,6 +4,7 @@
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="../../.gradle/caches/transforms-2/files-2.1/36376ba46f3e1601011f6c4a8a9c0b80/jetified-android-sdk-ui-3.3.0/res/layout/com_appboy_inappmessage_modal_graphic.xml" value="0.5" />
         <entry key="../../Library/Android/sdk/platforms/android-30/data/res/drawable/control_background_40dp_material.xml" value="0.28177083333333336" />
         <entry key="app/src/consoleEnabled/res/drawable/ic_baseline_add_24.xml" value="0.2" />
         <entry key="app/src/consoleEnabled/res/drawable/ic_baseline_archive_24.xml" value="0.2" />
