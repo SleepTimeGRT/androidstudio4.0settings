@@ -20,6 +20,7 @@
         <entry key="app/src/dev/res/layout/card_web_view_activity.xml" value="0.18489583333333334" />
         <entry key="app/src/dev/res/layout/developer_activity.xml" value="0.18489583333333334" />
         <entry key="app/src/dev/res/layout/developer_fragment.xml" value="0.4692028985507246" />
+        <entry key="app/src/main/res/drawable/chai_input_field.xml" value="0.5" />
         <entry key="app/src/main/res/drawable/favorite_animated_off_vector.xml" value="0.5" />
         <entry key="app/src/main/res/drawable/favorite_animated_on_vector.xml" value="0.5" />
         <entry key="app/src/main/res/drawable/ic_close_12.xml" value="0.5" />
