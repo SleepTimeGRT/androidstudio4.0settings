@@ -75,7 +75,8 @@
         <entry key="app/src/main/res/layout/boost_tutorial_slide_fragment.xml" value="0.43432971014492755" />
         <entry key="app/src/main/res/layout/boost_view_holder.xml" value="0.5" />
         <entry key="app/src/main/res/layout/cancel_card_lost_fragment.xml" value="0.43432971014492755" />
-        <entry key="app/src/main/res/layout/card_address_fragment.xml" value="0.3394123606889564" />
+        <entry key="app/src/main/res/layout/card_address_detail_fragment.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/card_address_fragment.xml" value="0.4773550724637681" />
         <entry key="app/src/main/res/layout/card_boost_fragment.xml" value="0.3394123606889564" />
         <entry key="app/src/main/res/layout/card_eng_name_update_activity.xml" value="0.18489583333333334" />
         <entry key="app/src/main/res/layout/card_home_fragment.xml" value="0.39479166666666665" />
