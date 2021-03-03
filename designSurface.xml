@@ -135,8 +135,8 @@
         <entry key="app/src/main/res/layout/more_fragment.xml" value="0.41983695652173914" />
         <entry key="app/src/main/res/layout/offline_payment_merchant_view_holder.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/open_banking_agree_fragment.xml" value="0.43432971014492755" />
-        <entry key="app/src/main/res/layout/otp_fragment.xml" value="0.3394123606889564" />
-        <entry key="app/src/main/res/layout/otp_input_fragment.xml" value="0.43432971014492755" />
+        <entry key="app/src/main/res/layout/otp_fragment.xml" value="0.490036231884058" />
+        <entry key="app/src/main/res/layout/otp_input_fragment.xml" value="0.4375" />
         <entry key="app/src/main/res/layout/payable_fragment.xml" value="0.3394123606889564" />
         <entry key="app/src/main/res/layout/payment_history_cash_back_item_amount_accent_view_holder.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/payment_history_cash_back_item_amount_view_holder.xml" value="0.1984375" />
