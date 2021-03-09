@@ -169,6 +169,7 @@
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.5" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.45208333333333334" />
         <entry key="app/src/main/res/xml/boost_detail_swipe_scene.xml" value="0.33541666666666664" />
+        <entry key="app/src/main/res/xml/payable_fragment_boost_animation_scene.xml" value="0.4578804347826087" />
       </map>
     </option>
   </component>
