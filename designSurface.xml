@@ -137,7 +137,7 @@
         <entry key="app/src/main/res/layout/open_banking_agree_fragment.xml" value="0.43432971014492755" />
         <entry key="app/src/main/res/layout/otp_fragment.xml" value="0.490036231884058" />
         <entry key="app/src/main/res/layout/otp_input_fragment.xml" value="0.48596014492753625" />
-        <entry key="app/src/main/res/layout/payable_fragment.xml" value="0.3394123606889564" />
+        <entry key="app/src/main/res/layout/payable_fragment.xml" value="0.5" />
         <entry key="app/src/main/res/layout/payment_history_cash_back_item_amount_accent_view_holder.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/payment_history_cash_back_item_amount_view_holder.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/payment_history_detail_fragment.xml" value="0.3394123606889564" />
@@ -154,7 +154,7 @@
         <entry key="app/src/main/res/layout/rps_invite_activity.xml" value="0.18489583333333334" />
         <entry key="app/src/main/res/layout/selector_view_holder.xml" value="0.3392210144927536" />
         <entry key="app/src/main/res/layout/subscription_list_fragment.xml" value="0.43432971014492755" />
-        <entry key="app/src/main/res/layout/subscription_view_stub.xml" value="0.12386018237082067" />
+        <entry key="app/src/main/res/layout/subscription_view_stub.xml" value="0.2518518518518518" />
         <entry key="app/src/main/res/layout/term_detail_fragment.xml" value="0.43432971014492755" />
         <entry key="app/src/main/res/layout/term_view_holder.xml" value="0.33541666666666664" />
         <entry key="app/src/main/res/layout/test.xml" value="0.22509057971014493" />
