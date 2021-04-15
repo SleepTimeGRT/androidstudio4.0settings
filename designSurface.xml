@@ -108,7 +108,7 @@
         <entry key="app/src/main/res/layout/card_verify_cvc_fragment.xml" value="0.43432971014492755" />
         <entry key="app/src/main/res/layout/card_wait_fragment.xml" value="0.5" />
         <entry key="app/src/main/res/layout/cash_receipt_fragment.xml" value="0.43432971014492755" />
-        <entry key="app/src/main/res/layout/chai_activity.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/chai_activity.xml" value="0.453125" />
         <entry key="app/src/main/res/layout/chai_pay_activity.xml" value="0.2546875" />
         <entry key="app/src/main/res/layout/change_pin_activity.xml" value="0.33541666666666664" />
         <entry key="app/src/main/res/layout/contact_view_holder.xml" value="0.4666666666666667" />
