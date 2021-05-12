@@ -42,6 +42,7 @@
         <entry key="app/src/main/res/drawable/ic_close_12.xml" value="0.5" />
         <entry key="app/src/main/res/drawable/ic_close_12_ffffff.xml" value="0.5" />
         <entry key="app/src/main/res/drawable/ic_first_come_large.xml" value="0.18072916666666666" />
+        <entry key="app/src/main/res/drawable/ic_hawaii_toast_check.xml" value="0.3758974358974359" />
         <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.45208333333333334" />
         <entry key="app/src/main/res/drawable/ic_search.xml" value="0.4817708333333333" />
         <entry key="app/src/main/res/drawable/ic_shortcut_barcode.xml" value="0.5" />
@@ -140,6 +141,7 @@
         <entry key="app/src/main/res/layout/fragment_task.xml" value="0.2346014492753623" />
         <entry key="app/src/main/res/layout/fragment_task_list.xml" value="0.2515625" />
         <entry key="app/src/main/res/layout/hawaii_toast_confirm.xml" value="0.28489583333333335" />
+        <entry key="app/src/main/res/layout/hawaii_toast_error.xml" value="0.36666666666666664" />
         <entry key="app/src/main/res/layout/home_fragment.xml" value="0.3394123606889564" />
         <entry key="app/src/main/res/layout/identification_terms_fragment.xml" value="0.43432971014492755" />
         <entry key="app/src/main/res/layout/inactive_boost_view_holder.xml" value="0.389945652173913" />
