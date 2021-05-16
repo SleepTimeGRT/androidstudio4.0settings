@@ -4,95 +4,197 @@
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="../../.gradle/caches/transforms-2/files-2.1/0573c4feea3e587d088b11ca9f921e33/jetified-android-sdk-ui-13.0.0/res/layout/com_appboy_inappmessage_modal.xml" value="0.5" />
+        <entry key="../../.gradle/caches/transforms-2/files-2.1/36376ba46f3e1601011f6c4a8a9c0b80/jetified-android-sdk-ui-3.3.0/res/layout/com_appboy_inappmessage_modal_graphic.xml" value="0.5" />
+        <entry key="../../.gradle/caches/transforms-2/files-2.1/ba1bfe80ef57f08c83072976a81229bc/appcompat-1.3.0-alpha01/res/layout/abc_alert_dialog_material.xml" value="0.5" />
+        <entry key="../../.gradle/caches/transforms-2/files-2.1/ba1bfe80ef57f08c83072976a81229bc/appcompat-1.3.0-alpha01/res/layout/abc_alert_dialog_title_material.xml" value="0.5" />
+        <entry key="../../Library/Android/sdk/platforms/android-30/data/res/drawable/control_background_40dp_material.xml" value="0.28177083333333336" />
+        <entry key="app/src/alpha/res/layout/card_features_panel_layout.xml" value="0.22056159420289856" />
+        <entry key="app/src/alpha/res/layout/cash_back_anim_fragment.xml" value="0.5" />
+        <entry key="app/src/alpha/res/layout/developer_activity.xml" value="0.41983695652173914" />
+        <entry key="app/src/alpha/res/layout/developer_fragment.xml" value="0.22056159420289856" />
         <entry key="app/src/consoleEnabled/res/drawable/ic_baseline_add_24.xml" value="0.2" />
         <entry key="app/src/consoleEnabled/res/drawable/ic_baseline_archive_24.xml" value="0.2" />
         <entry key="app/src/consoleEnabled/res/layout/boost_detail_demo_activity.xml" value="0.33061594202898553" />
+        <entry key="app/src/consoleEnabled/res/layout/card_web_view_activity.xml" value="0.1" />
+        <entry key="app/src/consoleEnabled/res/layout/cash_back_anim_fragment.xml" value="0.5" />
         <entry key="app/src/dev/res/layout/boost_color_demo_fragment.xml" value="0.18489583333333334" />
         <entry key="app/src/dev/res/layout/boost_demo_activity.xml" value="0.18489583333333334" />
-        <entry key="app/src/dev/res/layout/card_features_panel_layout.xml" value="0.18489583333333334" />
+        <entry key="app/src/dev/res/layout/card_features_panel_layout.xml" value="0.4692028985507246" />
         <entry key="app/src/dev/res/layout/card_web_view_activity.xml" value="0.18489583333333334" />
         <entry key="app/src/dev/res/layout/developer_activity.xml" value="0.18489583333333334" />
+        <entry key="app/src/dev/res/layout/developer_fragment.xml" value="0.4692028985507246" />
+        <entry key="app/src/develop/res/layout/apng_demo_fragment.xml" value="0.1" />
+        <entry key="app/src/develop/res/layout/boost_demo_activity.xml" value="0.1" />
+        <entry key="app/src/develop/res/layout/card_web_view_activity.xml" value="0.33469202898550726" />
+        <entry key="app/src/develop/res/layout/demo_font_fragment.xml" value="0.1" />
+        <entry key="app/src/develop/res/layout/demo_input_component.xml" value="0.1" />
+        <entry key="app/src/develop/res/layout/demo_panel_layout.xml" value="0.1" />
+        <entry key="app/src/develop/res/layout/developer_activity.xml" value="0.1" />
+        <entry key="app/src/develop/res/layout/developer_fragment.xml" value="0.1" />
+        <entry key="app/src/develop/res/layout/lottie_fragment.xml" value="0.1" />
+        <entry key="app/src/develop/res/layout/toast_demo_activity.xml" value="0.20677083333333332" />
+        <entry key="app/src/main/res/drawable-night/ic_shortcut_barcode.xml" value="0.5" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.45208333333333334" />
+        <entry key="app/src/main/res/drawable/chai_input_field.xml" value="0.5" />
+        <entry key="app/src/main/res/drawable/favorite_animated_off_vector.xml" value="0.5" />
+        <entry key="app/src/main/res/drawable/favorite_animated_on_vector.xml" value="0.5" />
+        <entry key="app/src/main/res/drawable/ic_close_12.xml" value="0.5" />
+        <entry key="app/src/main/res/drawable/ic_close_12_ffffff.xml" value="0.5" />
         <entry key="app/src/main/res/drawable/ic_first_come_large.xml" value="0.18072916666666666" />
+        <entry key="app/src/main/res/drawable/ic_hawaii_toast_check.xml" value="0.3758974358974359" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.45208333333333334" />
+        <entry key="app/src/main/res/drawable/ic_search.xml" value="0.4817708333333333" />
+        <entry key="app/src/main/res/drawable/ic_shortcut_barcode.xml" value="0.5" />
         <entry key="app/src/main/res/drawable/ic_time_attack_large.xml" value="0.18072916666666666" />
         <entry key="app/src/main/res/drawable/ic_timeattack_small.xml" value="0.18072916666666666" />
         <entry key="app/src/main/res/drawable/ic_timer.xml" value="0.18072916666666666" />
         <entry key="app/src/main/res/drawable/shape_circle_gradient.xml" value="0.21354166666666666" />
-        <entry key="app/src/main/res/layout/account_list_fragment.xml" value="0.1766304347826087" />
+        <entry key="app/src/main/res/drawable/shape_invite_friend_state_bg.xml" value="0.4817708333333333" />
+        <entry key="app/src/main/res/drawable/social_avartar_background.xml" value="0.4817708333333333" />
+        <entry key="app/src/main/res/drawable/social_avatar_background.xml" value="0.4817708333333333" />
+        <entry key="app/src/main/res/layout/account_list_fragment.xml" value="0.39266304347826086" />
         <entry key="app/src/main/res/layout/account_register_initial_fragment.xml" value="0.33541666666666664" />
+        <entry key="app/src/main/res/layout/account_view_holder.xml" value="0.5" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.33541666666666664" />
-        <entry key="app/src/main/res/layout/alert_bolt_policy_popup.xml" value="0.1984375" />
+        <entry key="app/src/main/res/layout/address_detail_fragment.xml" value="0.46822916666666664" />
+        <entry key="app/src/main/res/layout/address_search_fragment.xml" value="0.3958333333333333" />
+        <entry key="app/src/main/res/layout/alert_bolt_policy_popup.xml" value="0.33061594202898553" />
         <entry key="app/src/main/res/layout/alert_money_charge_disable.xml" value="0.1984375" />
+        <entry key="app/src/main/res/layout/alert_point_restricted_payment.xml" value="0.3903985507246377" />
         <entry key="app/src/main/res/layout/alert_simple_message.xml" value="0.33541666666666664" />
+        <entry key="app/src/main/res/layout/appbar_layout.xml" value="0.43432971014492755" />
         <entry key="app/src/main/res/layout/bank_account_ars_fragment.xml" value="0.33541666666666664" />
-        <entry key="app/src/main/res/layout/bank_account_fragment.xml" value="0.33541666666666664" />
+        <entry key="app/src/main/res/layout/bank_account_fragment.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/bank_list_fragment.xml" value="0.43432971014492755" />
         <entry key="app/src/main/res/layout/barcode_detail_activity.xml" value="0.33016304347826086" />
-        <entry key="app/src/main/res/layout/barcode_detail_fragment.xml" value="0.18489583333333334" />
-        <entry key="app/src/main/res/layout/barcode_finish_activity.xml" value="0.18489583333333334" />
+        <entry key="app/src/main/res/layout/barcode_detail_fragment.xml" value="0.43432971014492755" />
+        <entry key="app/src/main/res/layout/barcode_finish_activity.xml" value="0.5" />
         <entry key="app/src/main/res/layout/barcode_panel_layout.xml" value="0.33469202898550726" />
+        <entry key="app/src/main/res/layout/base_body_message_panel.xml" value="0.48898467432950193" />
+        <entry key="app/src/main/res/layout/base_body_title_message_panel.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/base_bottom_button_panel.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/base_center_button_panel.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/base_center_positive_only_panel.xml" value="0.5" />
         <entry key="app/src/main/res/layout/base_graph_fragment.xml" value="0.33541666666666664" />
-        <entry key="app/src/main/res/layout/benefit_fragment.xml" value="0.2807971014492754" />
+        <entry key="app/src/main/res/layout/base_popup.xml" value="0.46770833333333334" />
+        <entry key="app/src/main/res/layout/before_root_tag.xml" value="0.3220108695652174" />
+        <entry key="app/src/main/res/layout/benefit_fragment.xml" value="0.4759963768115942" />
         <entry key="app/src/main/res/layout/biometric_register_activity.xml" value="0.18489583333333334" />
+        <entry key="app/src/main/res/layout/bolt_history_fragment.xml" value="0.43432971014492755" />
         <entry key="app/src/main/res/layout/bolt_history_view_holder.xml" value="0.1984375" />
-        <entry key="app/src/main/res/layout/boost_card.xml" value="0.2536231884057971" />
-        <entry key="app/src/main/res/layout/boost_detail_content_panel.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/bolt_notice_fragment.xml" value="0.3394123606889564" />
+        <entry key="app/src/main/res/layout/boost_card.xml" value="0.3394123606889564" />
+        <entry key="app/src/main/res/layout/boost_contact_permission_fragment.xml" value="0.3394123606889564" />
+        <entry key="app/src/main/res/layout/boost_detail_content_panel.xml" value="0.5" />
         <entry key="app/src/main/res/layout/boost_detail_error_panel.xml" value="0.3392210144927536" />
-        <entry key="app/src/main/res/layout/boost_detail_fragment.xml" value="0.3007246376811594" />
+        <entry key="app/src/main/res/layout/boost_detail_fragment.xml" value="0.5" />
         <entry key="app/src/main/res/layout/boost_detail_info_panel.xml" value="0.29891304347826086" />
         <entry key="app/src/main/res/layout/boost_detail_swipe_panel.xml" value="0.33541666666666664" />
         <entry key="app/src/main/res/layout/boost_detail_tutorial_panel.xml" value="0.3392210144927536" />
-        <entry key="app/src/main/res/layout/boost_list_panel.xml" value="0.20572916666666666" />
-        <entry key="app/src/main/res/layout/boost_view_holder.xml" value="0.182518115942029" />
-        <entry key="app/src/main/res/layout/card_address_fragment.xml" value="0.275" />
-        <entry key="app/src/main/res/layout/card_boost_fragment.xml" value="0.259963768115942" />
+        <entry key="app/src/main/res/layout/boost_list_panel.xml" value="0.3394123606889564" />
+        <entry key="app/src/main/res/layout/boost_notice_fragment.xml" value="0.3394123606889564" />
+        <entry key="app/src/main/res/layout/boost_tutorial_slide_fragment.xml" value="0.43432971014492755" />
+        <entry key="app/src/main/res/layout/boost_view_holder.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/cancel_card_lost_fragment.xml" value="0.43432971014492755" />
+        <entry key="app/src/main/res/layout/card_address_detail_fragment.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/card_address_fragment.xml" value="0.4773550724637681" />
+        <entry key="app/src/main/res/layout/card_boost_fragment.xml" value="0.5" />
         <entry key="app/src/main/res/layout/card_eng_name_update_activity.xml" value="0.18489583333333334" />
+        <entry key="app/src/main/res/layout/card_home_fragment.xml" value="0.39479166666666665" />
+        <entry key="app/src/main/res/layout/card_id_input_fragment.xml" value="0.43432971014492755" />
         <entry key="app/src/main/res/layout/card_invite_activity.xml" value="0.18489583333333334" />
+        <entry key="app/src/main/res/layout/card_invite_contact_fragment.xml" value="0.4666666666666667" />
         <entry key="app/src/main/res/layout/card_issue_finish_fragment.xml" value="0.2536231884057971" />
         <entry key="app/src/main/res/layout/card_issue_init_fragment.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/card_issue_terms_fragment.xml" value="0.43432971014492755" />
         <entry key="app/src/main/res/layout/card_more_activity.xml" value="0.18489583333333334" />
-        <entry key="app/src/main/res/layout/card_more_fragment.xml" value="0.33541666666666664" />
+        <entry key="app/src/main/res/layout/card_more_fragment.xml" value="0.3394123606889564" />
+        <entry key="app/src/main/res/layout/card_name_input_fragment.xml" value="0.4773550724637681" />
+        <entry key="app/src/main/res/layout/card_new_user_fragment.xml" value="0.39479166666666665" />
         <entry key="app/src/main/res/layout/card_password_change_activity.xml" value="0.3007246376811594" />
-        <entry key="app/src/main/res/layout/card_reissue_fragment.xml" value="0.33541666666666664" />
-        <entry key="app/src/main/res/layout/chai_activity.xml" value="0.29891304347826086" />
+        <entry key="app/src/main/res/layout/card_password_input_fragment.xml" value="0.43432971014492755" />
+        <entry key="app/src/main/res/layout/card_reissue_fragment.xml" value="0.3394123606889564" />
+        <entry key="app/src/main/res/layout/card_reissue_notice_fragment.xml" value="0.43432971014492755" />
+        <entry key="app/src/main/res/layout/card_terminate_fragment.xml" value="0.43432971014492755" />
+        <entry key="app/src/main/res/layout/card_topup_account_fragment.xml" value="0.43432971014492755" />
+        <entry key="app/src/main/res/layout/card_verify_cvc_fragment.xml" value="0.43432971014492755" />
+        <entry key="app/src/main/res/layout/card_wait_fragment.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/cash_receipt_fragment.xml" value="0.43432971014492755" />
+        <entry key="app/src/main/res/layout/chai_activity.xml" value="0.453125" />
+        <entry key="app/src/main/res/layout/chai_activity2.xml" value="0.178125" />
         <entry key="app/src/main/res/layout/chai_pay_activity.xml" value="0.2546875" />
         <entry key="app/src/main/res/layout/change_pin_activity.xml" value="0.33541666666666664" />
-        <entry key="app/src/main/res/layout/coupon_activity.xml" value="0.18489583333333334" />
-        <entry key="app/src/main/res/layout/delete_user_request_fragment.xml" value="0.182518115942029" />
+        <entry key="app/src/main/res/layout/contact_view_holder.xml" value="0.4666666666666667" />
+        <entry key="app/src/main/res/layout/coupon_activity.xml" value="0.3394123606889564" />
+        <entry key="app/src/main/res/layout/cs_center_fragment.xml" value="0.4678442028985507" />
+        <entry key="app/src/main/res/layout/custom_appboy_inappmessage_modal.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/custom_confirm_toast.xml" value="0.28489583333333335" />
+        <entry key="app/src/main/res/layout/delete_user_finish_fragment.xml" value="0.43432971014492755" />
+        <entry key="app/src/main/res/layout/delete_user_request_fragment.xml" value="0.43432971014492755" />
         <entry key="app/src/main/res/layout/demo_activity.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/demo_fragment_1.xml" value="0.23596014492753623" />
+        <entry key="app/src/main/res/layout/demo_fragment_2.xml" value="0.3442028985507246" />
+        <entry key="app/src/main/res/layout/dialog_layout.xml" value="0.33541666666666664" />
         <entry key="app/src/main/res/layout/dialog_task.xml" value="0.3446557971014493" />
+        <entry key="app/src/main/res/layout/error_activity.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_task.xml" value="0.2346014492753623" />
         <entry key="app/src/main/res/layout/fragment_task_list.xml" value="0.2515625" />
-        <entry key="app/src/main/res/layout/home_fragment.xml" value="0.1984375" />
+        <entry key="app/src/main/res/layout/hawaii_toast_confirm.xml" value="0.28489583333333335" />
+        <entry key="app/src/main/res/layout/hawaii_toast_error.xml" value="0.36666666666666664" />
+        <entry key="app/src/main/res/layout/home_fragment.xml" value="0.3394123606889564" />
+        <entry key="app/src/main/res/layout/identification_terms_fragment.xml" value="0.43432971014492755" />
+        <entry key="app/src/main/res/layout/inactive_boost_view_holder.xml" value="0.389945652173913" />
         <entry key="app/src/main/res/layout/main_fragment.xml" value="0.1766304347826087" />
-        <entry key="app/src/main/res/layout/manual_apply_boost_fragment.xml" value="0.1816123188405797" />
+        <entry key="app/src/main/res/layout/manual_apply_boost_fragment.xml" value="0.3394123606889564" />
         <entry key="app/src/main/res/layout/merchant_benefit_view_holder.xml" value="0.18489583333333334" />
         <entry key="app/src/main/res/layout/money_activity.xml" value="0.18489583333333334" />
-        <entry key="app/src/main/res/layout/money_charge_fragment.xml" value="0.1984375" />
+        <entry key="app/src/main/res/layout/money_charge_finish_fragment.xml" value="0.43432971014492755" />
+        <entry key="app/src/main/res/layout/money_charge_fragment.xml" value="0.46770833333333334" />
         <entry key="app/src/main/res/layout/money_container_fragment.xml" value="0.33016304347826086" />
-        <entry key="app/src/main/res/layout/money_home_fragment.xml" value="0.18541666666666667" />
-        <entry key="app/src/main/res/layout/money_withdraw_fragment.xml" value="0.1984375" />
-        <entry key="app/src/main/res/layout/more_fragment.xml" value="0.33541666666666664" />
+        <entry key="app/src/main/res/layout/money_history_view_holder.xml" value="0.43432971014492755" />
+        <entry key="app/src/main/res/layout/money_home_fragment.xml" value="0.46648550724637683" />
+        <entry key="app/src/main/res/layout/money_withdraw_finish_fragment.xml" value="0.46059782608695654" />
+        <entry key="app/src/main/res/layout/money_withdraw_fragment.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/more_fragment.xml" value="0.41983695652173914" />
         <entry key="app/src/main/res/layout/offline_payment_merchant_view_holder.xml" value="0.1984375" />
-        <entry key="app/src/main/res/layout/open_banking_agree_fragment.xml" value="0.33541666666666664" />
-        <entry key="app/src/main/res/layout/payable_fragment.xml" value="0.3007246376811594" />
+        <entry key="app/src/main/res/layout/open_banking_agree_fragment.xml" value="0.43432971014492755" />
+        <entry key="app/src/main/res/layout/otp_fragment.xml" value="0.490036231884058" />
+        <entry key="app/src/main/res/layout/otp_input_fragment.xml" value="0.48596014492753625" />
+        <entry key="app/src/main/res/layout/payable_fragment.xml" value="0.5" />
         <entry key="app/src/main/res/layout/payment_history_cash_back_item_amount_accent_view_holder.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/payment_history_cash_back_item_amount_view_holder.xml" value="0.1984375" />
-        <entry key="app/src/main/res/layout/payment_history_detail_fragment.xml" value="0.30434782608695654" />
+        <entry key="app/src/main/res/layout/payment_history_detail_fragment.xml" value="0.3394123606889564" />
         <entry key="app/src/main/res/layout/payment_history_detail_view_stub.xml" value="0.33541666666666664" />
         <entry key="app/src/main/res/layout/payment_history_view_holder.xml" value="0.1984375" />
         <entry key="app/src/main/res/layout/payment_over_fragment.xml" value="0.18489583333333334" />
-        <entry key="app/src/main/res/layout/payment_view_stub.xml" value="0.33" />
-        <entry key="app/src/main/res/layout/pin_change_finish_fragment.xml" value="0.33541666666666664" />
-        <entry key="app/src/main/res/layout/pin_change_fragment.xml" value="0.16312056737588654" />
-        <entry key="app/src/main/res/layout/pin_input_fragment.xml" value="0.33016304347826086" />
-        <entry key="app/src/main/res/layout/profile_fragment.xml" value="0.1578125" />
+        <entry key="app/src/main/res/layout/payment_view_stub.xml" value="0.3394123606889564" />
+        <entry key="app/src/main/res/layout/pin_change_finish_fragment.xml" value="0.3394123606889564" />
+        <entry key="app/src/main/res/layout/pin_change_fragment.xml" value="0.43432971014492755" />
+        <entry key="app/src/main/res/layout/pin_input_fragment.xml" value="0.3903985507246377" />
+        <entry key="app/src/main/res/layout/profile_fragment.xml" value="0.43432971014492755" />
+        <entry key="app/src/main/res/layout/request_card_lost_fragment.xml" value="0.43432971014492755" />
+        <entry key="app/src/main/res/layout/rps_contact_fragment.xml" value="0.43432971014492755" />
         <entry key="app/src/main/res/layout/rps_invite_activity.xml" value="0.18489583333333334" />
         <entry key="app/src/main/res/layout/selector_view_holder.xml" value="0.3392210144927536" />
-        <entry key="app/src/main/res/layout/subscription_view_stub.xml" value="0.12386018237082067" />
+        <entry key="app/src/main/res/layout/subscription_list_fragment.xml" value="0.43432971014492755" />
+        <entry key="app/src/main/res/layout/subscription_view_stub.xml" value="0.3394123606889564" />
+        <entry key="app/src/main/res/layout/term_detail_fragment.xml" value="0.43432971014492755" />
         <entry key="app/src/main/res/layout/term_view_holder.xml" value="0.33541666666666664" />
+        <entry key="app/src/main/res/layout/test.xml" value="0.22509057971014493" />
+        <entry key="app/src/main/res/layout/test2.xml" value="0.3220108695652174" />
         <entry key="app/src/main/res/layout/tiger_card_view.xml" value="0.2572463768115942" />
+        <entry key="app/src/main/res/layout/topup_account_view_holder.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/update_term_fragment.xml" value="0.43432971014492755" />
+        <entry key="app/src/main/res/layout/version_fragment.xml" value="0.43697916666666664" />
         <entry key="app/src/main/res/layout/view_in_service.xml" value="0.33541666666666664" />
-        <entry key="app/src/main/res/layout/web_view_fragment.xml" value="0.20572916666666666" />
+        <entry key="app/src/main/res/layout/web_view_fragment.xml" value="0.43432971014492755" />
+        <entry key="app/src/main/res/menu/social_contact_menu.xml" value="0.4666666666666667" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.5" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.45208333333333334" />
         <entry key="app/src/main/res/xml/boost_detail_swipe_scene.xml" value="0.33541666666666664" />
+        <entry key="app/src/main/res/xml/payable_fragment_boost_animation_scene.xml" value="0.4578804347826087" />
+        <entry key="app/src/main/res/xml/shortcuts.xml" value="0.34103260869565216" />
       </map>
     </option>
   </component>
